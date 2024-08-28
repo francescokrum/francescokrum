@@ -1,5 +1,5 @@
 Francesco Krum
-LinkedIn Badge
+https://www.linkedin.com/in/francescokrum/
 
 Hello World! 
 I'm Francesco Krum, Italian 🇮🇹 and Brazilian 🇧🇷, currently I'm a Fullstack Developer on Ubiquitous, Mobile and Applied Computing Laboratory(LUMAC), passionate about solving problems with technology and creating different solutions.
