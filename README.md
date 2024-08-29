@@ -8,6 +8,6 @@
 - 🏡 I love being with my family and friends, they are everything to me.
 - ✈️ I love to travel and get to know new places and cultures.
 - ⚽ Passionate about football, Grêmio Foot-Ball Porto Alegrense (Brazil) 🔵⚪️⚫️
-- 📽️ I'm passionate about Cinema, follow me on Letterboxd [![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-071A2C?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/francescokrum/)
+- 📽️ I'm passionate about cinema, follow me on Letterboxd [![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-071A2C?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/francescokrum/)
 
 
