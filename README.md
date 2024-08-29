@@ -10,4 +10,11 @@
 - ⚽ Passionate about football, Grêmio Foot-Ball Porto Alegrense (Brazil) 🔵⚪️⚫️
 - 📽️ I'm passionate about cinema, follow me on Letterboxd [![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-071A2C?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/francescokrum/)
 
-
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
