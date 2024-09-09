@@ -1,5 +1,5 @@
 # Francesco Krum
-![Likedin Badge](https://img.shields.io/badge/-Francesco Krum-9955F6?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/francescokrum)
+[![LinkedIn Badge](https://img.shields.io/badge/-Francesco%20Krum-9955F6?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/francescokrum)
 
 
 
