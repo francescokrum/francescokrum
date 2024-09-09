@@ -1,5 +1,7 @@
 # Francesco Krum
 [![LinkedIn Badge](https://img.shields.io/badge/-Francesco%20Krum-9955F6?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/francescokrum)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:francescopk19@gmail.com)
+
 
 
 
@@ -10,7 +12,8 @@
 - 🏡 I love being with my family and friends, they are everything to me.
 - ✈️ I love to travel and get to know new places and cultures.
 - ⚽ Passionate about football, Grêmio Foot-Ball Porto Alegrense (Brazil) 🔵⚪️⚫️
-- 📽️ I'm passionate about cinema, follow me on Letterboxd [![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-071A2C?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/francescokrum/)
+- 📽️ I'm passionate about cinema, follow me on Letterboxd [![Letterboxd Badge](https://img.shields.io/badge/-Letterboxd-000000?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/francescokrum)
+
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
