@@ -1,5 +1,6 @@
 # Francesco Krum
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/francescokrum/)](https://www.linkedin.com/in/francescokrum/)
+[![Likedin Badge](https://img.shields.io/badge/-Francesco Krum-9955F6?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/francescokrum)](https://linkedin.com/in/francescokrum)
+
 
 ## Hello World! 
 <samp> I'm Francesco Krum, Italian 🇮🇹 and Brazilian 🇧🇷, currently I'm a Software Developer on Laboratory of Ubiquitous, Mobile and Applied Computing(LUMAC), passionate about solving problems with technology and creating different solutions.
